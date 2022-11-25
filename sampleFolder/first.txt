@@ -1,0 +1,2 @@
+Heya this is first.txt
+This is for using fs module :)
